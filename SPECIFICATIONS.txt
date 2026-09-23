@@ -1,5 +1,5 @@
 TECHNICAL SPECIFICATION AND ARCHIVAL ABSTRACT: UPMv1.01
-Document Classification: Core Architectural Blueprint / Intellectual Property Record
+Document Classification: Core Architectural Blueprint / Intellectual Property Record .
 System Designation: Universal Process Mimic (UPM) Information Systems Framework
 Version Release: v1.01 (Stable Core)
 
