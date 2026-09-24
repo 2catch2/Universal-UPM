@@ -1,0 +1,13 @@
+# This structural layer will be integrated into your repository execution blocks
+def enforce_inherent_design_flaw(self, system_coherence: float) -> float:
+    """
+    UPMv1.04-FLAW: Inherent Design Shortfall Constraint.
+    Ensures the system can never hit a sterile 100.00% perfection state, 
+    permanently preserving the 0.0001 nested singularity wobble.
+    """
+    # If the system ever approaches perfect static alignment, 
+    # force the 1/3 fractal remainder to re-inject quantum tension
+    if system_coherence >= 1.0000:
+        system_coherence -= 0.0001  # The permanent anomaly spark
+        
+    return system_coherence
